@@ -14,7 +14,7 @@ If you're not sure about the following, you probably need a little help before y
 *	What's <a href="http://devdocs.magento.com/guides/v2.0/install-gde/basics/basics_software.html">PHP</a>?
 *	What's <a href="http://devdocs.magento.com/guides/v2.0/install-gde/basics/basics_software.html">Apache</a>?
 *	What's <a href="http://devdocs.magento.com/guides/v2.0/install-gde/basics/basics_software.html">MySQL</a>?
-*	Magento version 2 programmers <a href="https://www.chrisranjana.com">Magento2 support. Magento Version 2 programmers and developers</a>
+*	Magento version 2 programmers <a href="https://www.chrisranjana.com/magento-developers-programmers-india.html">Magento2 support. Magento Version 2 programmers and developers</a>
 
 
 <h2>Step 1: Verify your prerequisites</h2>
